@@ -4,6 +4,8 @@
 
 ## About
 Due to the massive amount of user reviews on GoPay app, manually analyzing feedback to identify key themes informing user satisfaction or dissatisfaction about the app, e.g., transaction speed, payment status, or top-up issues, is challenging. This project addresses the analysis challenge by utilizing topic models, namely Latent Dirichlet Allocation, Latent Semantic Analysis, and Nonnegative Matrix Factorization, to extract underlying themes from the user app reviews.
+- [Data Analysis](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/01_Data-Analysis.ipynb)
+- [Latent Dirichlet Allocation](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/)
 
 ## Content
 The predictive models are separated from each other because training one model is computationally intensive enough. Separating each model becomes a solution to decrease the computational source when executing the codes in each notebook.
@@ -13,8 +15,8 @@ The predictive models are separated from each other because training one model i
     │   └── review_gopay_newest_sort.csv
     ├── header.png
     ├── notebook
-    │   ├── [01_Data-Analysis.ipynb](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/01_Data-Analysis.ipynb)
-    │   ├── [02_Latent-Dirichlet-Allocation.ipynb](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/02_Latent-Dirichlet-Allocation.ipynb)
+    │   ├── 01_Data-Analysis.ipynb
+    │   ├── 02_Latent-Dirichlet-Allocation.ipynb
     │   ├── README.md
     └── requirements.txt
 
