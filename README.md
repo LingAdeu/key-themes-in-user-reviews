@@ -3,6 +3,7 @@
 # Investigating Key Themes in GoPay User Feedback: A Topic Modeling Approach
 
 ## About
+Due to the massive amount of user reviews on GoPay app, manually analyzing feedback to identify key themes informing user satisfaction or dissatisfaction about the app, e.g., transaction speed, payment status, or top-up issues, is challenging. This project addresses the analysis challenge by utilizing topic models, namely Latent Dirichlet Allocation, Latent Semantic Analysis, and Nonnegative Matrix Factorization, to extract underlying themes from the user app reviews.
 
 ## Content
 The predictive models are separated from each other because training one model is computationally intensive enough. Separating each model becomes a solution to decrease the computational source when executing the codes in each notebook.
