@@ -9,6 +9,7 @@ Due to the massive amount of user reviews on GoPay app, manually analyzing feedb
 
 ## Content
 The predictive models are separated from each other because training one model is computationally intensive enough. Separating each model becomes a solution to decrease the computational source when executing the codes in each notebook.
+
     .
     ├── README.md
     ├── data
