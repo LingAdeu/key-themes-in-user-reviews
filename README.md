@@ -15,7 +15,7 @@ As a next step, the project will explore other topic modeling algorithms to impr
 The predictive models are separated from each other because training one model is computationally intensive enough. To manage the computational resource when executing the codes in each notebook, I separate different models and data analysis into several Jupyter notebooks.
 
     .
-    ├── README.md                                 <- Top-level README for using this project.
+    ├── README.md                                 <- Top-level README 
     ├── data
     │   └── review_gopay_newest_sort.csv          <- Raw dataset
     ├── model
