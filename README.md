@@ -11,7 +11,7 @@ The project also applied Latent Dirichlet Allocation (LDA) topic modeling, which
 
 As a next step, the project will explore other topic modeling algorithms to improve the extraction of themes from user feedback and potentially enhance the coherence scores for more accurate topic generation.
 
-## Content
+## Folder Organization
 The predictive models are separated from each other because training one model is computationally intensive enough. To manage the computational resource when executing the codes in each notebook, I separate different models and data analysis into several Jupyter notebooks.
 
     .
@@ -21,8 +21,8 @@ The predictive models are separated from each other because training one model i
     ├── model
     │   └── lda_model.pkl                         <- LDA model
     ├── notebook
-    │   ├── 01_Data-Analysis.ipynb                <- Introduction & Data Analysis
-    │   ├── 02_Latent-Dirichlet-Allocation.ipynb  <- Topic modeling with LDA
+    │   ├── [01_Data-Analysis.ipynb](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/01_Data-Analysis.ipynb)                <- Introduction & Data Analysis
+    │   ├── [02_Latent-Dirichlet-Allocation.ipynb](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/02_Latent-Dirichlet-Allocation.ipynb)  <- Topic modeling with LDA
     └── requirements.txt                          <- File for reproducing env
 
 ## Feedback
