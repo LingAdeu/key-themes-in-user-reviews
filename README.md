@@ -21,8 +21,8 @@ The predictive models are separated from each other because training one model i
     ├── model
     │   └── lda_model.pkl                         <- LDA model
     ├── notebook
-    │   ├── [01_Data-Analysis.ipynb](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/01_Data-Analysis.ipynb)                <- Introduction & Data Analysis
-    │   ├── [02_Latent-Dirichlet-Allocation.ipynb](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/02_Latent-Dirichlet-Allocation.ipynb)  <- Topic modeling with LDA
+    │   ├── 01_Data-Analysis.ipynb                <- Introduction & Data Analysis
+    │   ├── 02_Latent-Dirichlet-Allocation.ipynb  <- Topic modeling with LDA
     └── requirements.txt                          <- File for reproducing env
 
 ## Feedback
