@@ -15,17 +15,15 @@ As a next step, the project will explore other topic modeling algorithms to impr
 The predictive models are separated from each other because training one model is computationally intensive enough. To manage the computational resource when executing the codes in each notebook, I separate different models and data analysis into several Jupyter notebooks.
 
     .
-    ├── README.md
+    ├── README.md                                 <- Top-level README for using this project.
     ├── data
-    │   └── review_gopay_newest_sort.csv
-    ├── header.png
+    │   └── review_gopay_newest_sort.csv          <- Raw dataset
     ├── model
-    │   └── lda_model.pkl
+    │   └── lda_model.pkl                         <- LDA model
     ├── notebook
-    │   ├── 01_Data-Analysis.ipynb
-    │   ├── 02_Latent-Dirichlet-Allocation.ipynb
-    │   ├── README.md
-    └── requirements.txt
+    │   ├── 01_Data-Analysis.ipynb                <- Introduction & Data Analysis
+    │   ├── 02_Latent-Dirichlet-Allocation.ipynb  <- Topic modeling with LDA
+    └── requirements.txt                          <- File for reproducing env
 
 ## Feedback
 If there are any questions or suggestions for improvements, feel free to contact me here:
