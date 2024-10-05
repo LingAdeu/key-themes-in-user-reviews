@@ -26,7 +26,9 @@ The predictive models are separated from each other because training one model i
     └── requirements.txt                          <- File for reproducing env
 
 >[!important]
-> For better experience in reading the Jupyter notebooks on which I carried out the analysis and built predictive models in, please use the following links: [data analysis notebook](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/01_Data-Analysis.ipynb) and [Latent Dirichlet Allocation notebook](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/02_Latent-Dirichlet-Allocation.ipynb).
+> Some data visualization outputs cannot be displayed properly when reading the notebook directly on GitHub. For better experience in reading the Jupyter notebooks on which I carried out the analysis and built predictive models in, please use the following links: 
+> - [data analysis notebook](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/01_Data-Analysis.ipynb)
+> - [Latent Dirichlet Allocation notebook](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/02_Latent-Dirichlet-Allocation.ipynb).
 
 ## Feedback
 If there are any questions or suggestions for improvements, feel free to contact me here:
