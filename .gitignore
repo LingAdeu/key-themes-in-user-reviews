@@ -3,3 +3,6 @@ __ARCHIEVED__
 notebook/.DS_Store
 .DS_Store
 notebook/backup.ipynb
+notebook/03_Nonnegative-Matrix-Fectorization.ipynb
+notebook/04_Latent-Semantic-Analysis.ipynb
+notebook/05_Hierarchical_Dirichlet_Process.ipynb
