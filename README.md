@@ -29,7 +29,7 @@ The predictive models are separated from each other because training one model i
 > Some data visualization outputs cannot be displayed properly, e.g., color map and interactivity, when reading the notebook directly on GitHub. For better experience in reading the Jupyter notebooks on which I carried out the analysis and built predictive models in, please use the following links: 
 > - [Data analysis notebook](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/01_Data-Analysis.ipynb)
 > - [LDA notebook](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/02_Latent-Dirichlet-Allocation.ipynb)
-> - NMF notebook (soon)
+> - [NMF notebook](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/03_Nonnegative_Matrix_Factorization.ipynb)
 
 ## Feedback
 If there are any questions or suggestions for improvements, feel free to contact me here:
