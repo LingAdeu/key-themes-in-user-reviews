@@ -24,7 +24,7 @@ The predictive models are separated from each other because training one model i
     │   ├── 03_Nonnegative_Matrix_Factorization.ipynb <- Topic modeling with NMF
     └── requirements.txt                              <- File for reproducing env
 
->[!info]
+>[!important]
 > Some data visualization outputs cannot be displayed properly, e.g., color map and interactivity, when reading the notebook directly on GitHub. For better experience in reading the Jupyter notebooks on which I carried out the analysis and built predictive models in, please use the following links: 
 > - [Data analysis notebook](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/01_Data-Analysis.ipynb)
 > - [LDA notebook](https://nbviewer.org/github/LingAdeu/key-themes-in-user-reviews/blob/main/notebook/02_Latent-Dirichlet-Allocation.ipynb)
